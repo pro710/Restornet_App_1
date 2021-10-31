@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Restornet_App_1/static/css/main.e418610d.chunk.css",
+    "main.js": "/Restornet_App_1/static/js/main.cd245dce.chunk.js",
+    "main.js.map": "/Restornet_App_1/static/js/main.cd245dce.chunk.js.map",
+    "runtime-main.js": "/Restornet_App_1/static/js/runtime-main.6a3f12d7.js",
+    "runtime-main.js.map": "/Restornet_App_1/static/js/runtime-main.6a3f12d7.js.map",
+    "static/js/2.21c9c182.chunk.js": "/Restornet_App_1/static/js/2.21c9c182.chunk.js",
+    "static/js/2.21c9c182.chunk.js.map": "/Restornet_App_1/static/js/2.21c9c182.chunk.js.map",
+    "index.html": "/Restornet_App_1/index.html",
+    "static/css/main.e418610d.chunk.css.map": "/Restornet_App_1/static/css/main.e418610d.chunk.css.map",
+    "static/js/2.21c9c182.chunk.js.LICENSE.txt": "/Restornet_App_1/static/js/2.21c9c182.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a3f12d7.js",
+    "static/js/2.21c9c182.chunk.js",
+    "static/css/main.e418610d.chunk.css",
+    "static/js/main.cd245dce.chunk.js"
+  ]
+}
